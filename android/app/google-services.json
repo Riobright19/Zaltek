@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816115254320",
+    "project_id": "zaltek-1234",
+    "storage_bucket": "zaltek-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816115254320:android:1b84edf04917205e2299f5",
+        "android_client_info": {
+          "package_name": "com.example.zaltek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816115254320-t7nsc00ehaolu6d047ac9jictgceootn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zaltek",
+            "certificate_hash": "96a2c61476527f88f8ccc3e377c14f0f84ea0952"
+          }
+        },
+        {
+          "client_id": "816115254320-ro9meuvb45t4iqtjkbtpodrj8p96g21t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCDfu9sMJYTHesgiXCvy68MyK6hAfMN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816115254320-ro9meuvb45t4iqtjkbtpodrj8p96g21t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
